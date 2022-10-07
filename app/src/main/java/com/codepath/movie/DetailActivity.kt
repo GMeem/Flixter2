@@ -1,21 +1,11 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.movie
 
 import android.os.Bundle
-import android.util.Log
-import android.view.RoundedCorner
-import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
-import com.codepath.asynchttpclient.AsyncHttpClient
-import com.codepath.asynchttpclient.RequestParams
-import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
-import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
-import okhttp3.Headers
-import org.json.JSONArray
 
 private const val API_KEY = "cb96f430de3435eff1d29075ae90bcbf"
 
