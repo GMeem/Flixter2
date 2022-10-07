@@ -1,4 +1,4 @@
-package com.codepath.movie
+package com.codepath.bestsellerlistapp
 
 /**
  * This interface is used by the [MoviesRecyclerViewAdapter] to ensure

@@ -1,4 +1,4 @@
-package com.codepath.movie
+package com.codepath.bestsellerlistapp
 
 import android.os.Bundle
 import android.widget.ImageView

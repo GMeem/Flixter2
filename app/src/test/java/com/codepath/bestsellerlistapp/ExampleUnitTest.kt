@@ -1,4 +1,4 @@
-package com.codepath.movie
+package com.codepath.bestsellerlistapp
 
 import org.junit.Test
 

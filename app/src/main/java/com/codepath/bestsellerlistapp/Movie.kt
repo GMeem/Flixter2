@@ -1,10 +1,10 @@
-package com.codepath.movie
+package com.codepath.bestsellerlistapp
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
 /**
- * The Model for storing a single movie from The Movie Database
+ * The Model for storing a single bestsellerlistapp from The Movie Database
  *
  * SerializedName tags MUST match the JSON response for the
  * object to correctly parse with the gson library.

@@ -1,4 +1,4 @@
-package com.codepath.movie
+package com.codepath.bestsellerlistapp
 
 import android.content.Intent
 import android.os.Bundle
@@ -110,7 +110,7 @@ class MoviesFragment : Fragment(), OnListFragmentInteractionListener {
     }
 
     /*
-     * What happens when a particular movie is clicked.
+     * What happens when a particular bestsellerlistapp is clicked.
      */
     override fun onItemClick(item: Movie) {
         //Toast.makeText(context, "test: " + item.title, Toast.LENGTH_LONG).show()
